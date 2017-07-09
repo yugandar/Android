@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exampleservice</string>
+    <string name="title_activity_myservice">Myservice</string>
+</resources>
